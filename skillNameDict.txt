@@ -1,0 +1,719 @@
+Num	Jap	Eng	Kor
+1	はたく	Pound	막치기
+2	からてチョップ	Karate Chop	태권당수
+3	おうふくビンタ	Double Slap	연속뺨치기
+4	れんぞくパンチ	Comet Punch	연속펀치
+5	メガトンパンチ	Mega Punch	메가톤펀치
+6	ネコにこばん	Pay Day	고양이돈받기
+7	ほのおのパンチ	Fire Punch	불꽃펀치
+8	れいとうパンチ	Ice Punch	냉동펀치
+9	かみなりパンチ	Thunder Punch	번개펀치
+10	ひっかく	Scratch	할퀴기
+11	はさむ	Vise Grip	찝기
+12	ハサミギロチン	Guillotine	가위자르기
+13	かまいたち	Razor Wind	칼바람
+14	つるぎのまい	Swords Dance	칼춤
+15	いあいぎり	Cut	풀베기
+16	かぜおこし	Gust	바람일으키기
+17	つばさでうつ	Wing Attack	날개치기
+18	ふきとばし	Whirlwind	날려버리기
+19	そらをとぶ	Fly	공중날기
+20	しめつける	Bind	조이기
+21	たたきつける	Slam	힘껏치기
+22	つるのムチ	Vine Whip	덩굴채찍
+23	ふみつけ	Stomp	짓밟기
+24	にどげり	Double Kick	두번치기
+25	メガトンキック	Mega Kick	메가톤킥
+26	とびげり	Jump Kick	점프킥
+27	まわしげり	Rolling Kick	돌려차기
+28	すなかけ	Sand Attack	모래뿌리기
+29	ずつき	Headbutt	박치기
+30	つのでつく	Horn Attack	뿔찌르기
+31	みだれづき	Fury Attack	마구찌르기
+32	つのドリル	Horn Drill	뿔드릴
+33	たいあたり	Tackle	몸통박치기
+34	のしかかり	Body Slam	누르기
+35	まきつく	Wrap	김밥말이
+36	とっしん	Take Down	돌진
+37	あばれる	Thrash	난동부리기
+38	すてみタックル	Double-Edge	이판사판태클
+39	しっぽをふる	Tail Whip	꼬리흔들기
+40	どくばり	Poison Sting	독침
+41	ダブルニ?ドル	Twineedle	더블니들
+42	ミサイルばり	Pin Missile	바늘미사일
+43	にらみつける	Leer	째려보기
+44	かみつく	Bite	물기
+45	なきごえ	Growl	울음소리
+46	ほえる	Roar	울부짖기
+47	うたう	Sing	노래하기
+48	ちょうおんぱ	Supersonic	초음파
+49	ソニックブ?ム	Sonic Boom	소닉붐
+50	かなしばり	Disable	사슬묶기
+51	ようかいえき	Acid	용해액
+52	ひのこ	Ember	불꽃세례
+53	かえんほうしゃ	Flamethrower	화염방사
+54	しろいきり	Mist	흰안개
+55	みずでっぽう	Water Gun	물대포
+56	ハイドロポンプ	Hydro Pump	하이드로펌프
+57	なみのり	Surf	파도타기
+58	れいとうビ?ム	Ice Beam	냉동빔
+59	ふぶき	Blizzard	눈보라
+60	サイケこうせん	Psybeam	환상빔
+61	バブルこうせん	Bubble Beam	거품광선
+62	オ?ロラビ?ム	Aurora Beam	오로라빔
+63	はかいこうせん	Hyper Beam	파괴광선
+64	つつく	Peck	쪼기
+65	ドリルくちばし	Drill Peck	회전부리
+66	じごくぐるま	Submission	지옥의바퀴
+67	けたぐり	Low Kick	안다리걸기
+68	カウンタ?	Counter	카운터
+69	ちきゅうなげ	Seismic Toss	지구던지기
+70	かいりき	Strength	괴력
+71	すいとる	Absorb	흡수
+72	メガドレイン	Mega Drain	메가드레인
+73	やどりぎのタネ	Leech Seed	씨뿌리기
+74	せいちょう	Growth	성장
+75	はっぱカッタ?	Razor Leaf	잎날가르기
+76	ソ?ラ?ビ?ム	Solar Beam	솔라빔
+77	どくのこな	Poison Powder	독가루
+78	しびれごな	Stun Spore	저리가루
+79	ねむりごな	Sleep Powder	수면가루
+80	はなびらのまい	Petal Dance	꽃잎댄스
+81	いとをはく	String Shot	실뿜기
+82	りゅうのいかり	Dragon Rage	용의분노
+83	ほのおのうず	Fire Spin	회오리불꽃
+84	でんきショック	Thunder Shock	전기쇼크
+85	１０まんボルト	Thunderbolt	10만볼트
+86	でんじは	Thunder Wave	전기자석파
+87	かみなり	Thunder	번개
+88	いわおとし	Rock Throw	돌떨구기
+89	じしん	Earthquake	지진
+90	じわれ	Fissure	땅가르기
+91	あなをほる	Dig	구멍파기
+92	どくどく	Toxic	맹독
+93	ねんりき	Confusion	염동력
+94	サイコキネシス	Psychic	사이코키네시스
+95	さいみんじゅつ	Hypnosis	최면술
+96	ヨガのポ?ズ	Meditate	요가포즈
+97	こうそくいどう	Agility	고속이동
+98	でんこうせっか	Quick Attack	전광석화
+99	いかり	Rage	분노
+100	テレポ?ト	Teleport	순간이동
+101	ナイトヘッド	Night Shade	나이트헤드
+102	ものまね	Mimic	흉내내기
+103	いやなおと	Screech	싫은소리
+104	かげぶんしん	Double Team	그림자분신
+105	じこさいせい	Recover	HP회복
+106	かたくなる	Harden	단단해지기
+107	ちいさくなる	Minimize	작아지기
+108	えんまく	Smokescreen	연막
+109	あやしいひかり	Confuse Ray	이상한빛
+110	からにこもる	Withdraw	껍질에숨기
+111	まるくなる	Defense Curl	웅크리기
+112	バリア?	Barrier	배리어
+113	ひかりのかべ	Light Screen	빛의장막
+114	くろいきり	Haze	흑안개
+115	リフレクタ?	Reflect	리플렉터
+116	きあいだめ	Focus Energy	기충전
+117	がまん	Bide	참기
+118	ゆびをふる	Metronome	손가락흔들기
+119	オウムがえし	Mirror Move	따라하기
+120	じばく	Self-Destruct	자폭
+121	タマゴばくだん	Egg Bomb	알폭탄
+122	したでなめる	Lick	핥기
+123	スモッグ	Smog	스모그
+124	ヘドロこうげき	Sludge	오물공격
+125	ホネこんぼう	Bone Club	뼈다귀치기
+126	だいもんじ	Fire Blast	불대문자
+127	たきのぼり	Waterfall	폭포오르기
+128	からではさむ	Clamp	껍질끼우기
+129	スピ?ドスタ?	Swift	스피드스타
+130	ロケットずつき	Skull Bash	로케트박치기
+131	とげキャノン	Spike Cannon	가시대포
+132	からみつく	Constrict	휘감기
+133	ドわすれ	Amnesia	망각술
+134	スプ?ンまげ	Kinesis	숟가락휘기
+135	タマゴうみ	Soft-Boiled	알낳기
+136	とびひざげり	High Jump Kick	무릎차기
+137	へびにらみ	Glare	뱀눈초리
+138	ゆめくい	Dream Eater	꿈먹기
+139	どくガス	Poison Gas	독가스
+140	たまなげ	Barrage	구슬던지기
+141	きゅうけつ	Leech Life	흡혈
+142	あくまのキッス	Lovely Kiss	악마의키스
+143	ゴッドバ?ド	Sky Attack	불새
+144	へんしん	Transform	변신
+145	あわ	Bubble	거품
+146	ピヨピヨパンチ	Dizzy Punch	잼잼펀치
+147	キノコのほうし	Spore	버섯포자
+148	フラッシュ	Flash	플래시
+149	サイコウェ?ブ	Psywave	사이코웨이브
+150	はねる	Splash	튀어오르기
+151	とける	Acid Armor	녹기
+152	クラブハンマ?	Crabhammer	찝게햄머
+153	だいばくはつ	Explosion	대폭발
+154	みだれひっかき	Fury Swipes	마구할퀴기
+155	ホネブ?メラン	Bonemerang	뼈다귀부메랑
+156	ねむる	Rest	잠자기
+157	いわなだれ	Rock Slide	스톤샤워
+158	ひっさつまえば	Hyper Fang	필살앞니
+159	かくばる	Sharpen	각지기
+160	テクスチャ?	Conversion	텍스처
+161	トライアタック	Tri Attack	트라이어택
+162	いかりのまえば	Super Fang	분노의앞니
+163	きりさく	Slash	베어가르기
+164	みがわり	Substitute	대타출동
+165	わるあがき	Struggle	발버둥
+166	スケッチ	Sketch	스케치
+167	トリプルキック	Triple Kick	트리플킥
+168	どろぼう	Thief	도둑질
+169	クモのす	Spider Web	거미집
+170	こころのめ	Mind Reader	마음의눈
+171	あくむ	Nightmare	악몽
+172	かえんぐるま	Flame Wheel	화염자동차
+173	いびき	Snore	코골기
+174	のろい	Curse	저주
+175	じたばた	Flail	바둥바둥
+176	テクスチャ?２	Conversion 2	텍스처2
+177	エアロブラスト	Aeroblast	에어로블라스트
+178	わたほうし	Cotton Spore	목화포자
+179	きしかいせい	Reversal	기사회생
+180	うらみ	Spite	원한
+181	こなゆき	Powder Snow	눈싸라기
+182	まもる	Protect	방어
+183	マッハパンチ	Mach Punch	마하펀치
+184	こわいかお	Scary Face	겁나는얼굴
+185	だましうち	Feint Attack	속여때리기
+186	てんしのキッス	Sweet Kiss	천사의키스
+187	はらだいこ	Belly Drum	배북
+188	ヘドロばくだん	Sludge Bomb	오물폭탄
+189	どろかけ	Mud-Slap	진흙뿌리기
+190	オクタンほう	Octazooka	대포무노포
+191	まきびし	Spikes	압정뿌리기
+192	でんじほう	Zap Cannon	전자포
+193	みやぶる	Foresight	꿰뚫어보기
+194	みちづれ	Destiny Bond	길동무
+195	ほろびのうた	Perish Song	멸망의노래
+196	こごえるかぜ	Icy Wind	얼다바람
+197	みきり	Detect	판별
+198	ボ?ンラッシュ	Bone Rush	본러쉬
+199	ロックオン	Lock-On	록온
+200	げきりん	Outrage	역린
+201	すなあらし	Sandstorm	모래바람
+202	ギガドレイン	Giga Drain	기가드레인
+203	こらえる	Endure	버티기
+204	あまえる	Charm	애교부리기
+205	ころがる	Rollout	구르기
+206	みねうち	False Swipe	칼등치기
+207	いばる	Swagger	뽐내기
+208	ミルクのみ	Milk Drink	우유마시기
+209	スパ?ク	Spark	스파크
+210	れんぞくぎり	Fury Cutter	연속자르기
+211	はがねのつばさ	Steel Wing	강철날개
+212	くろいまなざし	Mean Look	검은눈빛
+213	メロメロ	Attract	헤롱헤롱
+214	ねごと	Sleep Talk	잠꼬대
+215	いやしのすず	Heal Bell	치료방울
+216	おんがえし	Return	은혜갚기
+217	プレゼント	Present	프레젠트
+218	やつあたり	Frustration	화풀이
+219	しんぴのまもり	Safeguard	신비의부적
+220	いたみわけ	Pain Split	아픔나누기
+221	せいなるほのお	Sacred Fire	성스러운불꽃
+222	マグニチュ?ド	Magnitude	매그니튜드
+223	ばくれつパンチ	Dynamic Punch	폭발펀치
+224	メガホ?ン	Megahorn	메가폰
+225	りゅうのいぶき	Dragon Breath	용의숨결
+226	バトンタッチ	Baton Pass	바톤터치
+227	アンコ?ル	Encore	앵콜
+228	おいうち	Pursuit	따라가때리기
+229	こうそくスピン	Rapid Spin	고속스핀
+230	あまいかおり	Sweet Scent	달콤한향기
+231	アイアンテ?ル	Iron Tail	아이언테일
+232	メタルクロ?	Metal Claw	메탈크로우
+233	あてみなげ	Vital Throw	받아던지기
+234	あさのひざし	Morning Sun	아침햇살
+235	こうごうせい	Synthesis	광합성
+236	つきのひかり	Moonlight	달의불빛
+237	めざめるパワ?	Hidden Power	잠재파워
+238	クロスチョップ	Cross Chop	크로스촙
+239	たつまき	Twister	회오리
+240	あまごい	Rain Dance	비바라기
+241	にほんばれ	Sunny Day	쾌청
+242	かみくだく	Crunch	깨물어부수기
+243	ミラ?コ?ト	Mirror Coat	미러코트
+244	じこあんじ	Psych Up	자기암시
+245	しんそく	Extreme Speed	신속
+246	げんしのちから	Ancient Power	원시의힘
+247	シャド?ボ?ル	Shadow Ball	섀도볼
+248	みらいよち	Future Sight	미래예지
+249	いわくだき	Rock Smash	바위깨기
+250	うずしお	Whirlpool	바다회오리
+251	ふくろだたき	Beat Up	집단구타
+252	ねこだまし	Fake Out	속이다
+253	さわぐ	Uproar	소란피기
+254	たくわえる	Stockpile	비축하기
+255	はきだす	Spit Up	토해내기
+256	のみこむ	Swallow	꿀꺽
+257	ねっぷう	Heat Wave	열풍
+258	あられ	Hail	싸라기눈
+259	いちゃもん	Torment	트집
+260	おだてる	Flatter	부추기기
+261	おにび	Will-O-Wisp	도깨비불
+262	おきみやげ	Memento	추억의선물
+263	からげんき	Facade	객기
+264	きあいパンチ	Focus Punch	힘껏펀치
+265	きつけ	Smelling Salts	정신차리기
+266	このゆびとまれ	Follow Me	날따름
+267	しぜんのちから	Nature Power	자연의힘
+268	じゅうでん	Charge	충전
+269	ちょうはつ	Taunt	도발
+270	てだすけ	Helping Hand	도우미
+271	トリック	Trick	트릭
+272	なりきり	Role Play	역할
+273	ねがいごと	Wish	희망사항
+274	ねこのて	Assist	조수
+275	ねをはる	Ingrain	뿌리박기
+276	ばかぢから	Superpower	엄청난힘
+277	マジックコ?ト	Magic Coat	매직코트
+278	リサイクル	Recycle	리사이클
+279	リベンジ	Revenge	리벤지
+280	かわらわり	Brick Break	깨트리다
+281	あくび	Yawn	하품
+282	はたきおとす	Knock Off	탁쳐서떨구기
+283	がむしゃら	Endeavor	죽기살기
+284	ふんか	Eruption	분화
+285	スキルスワップ	Skill Swap	스킬스웹
+286	ふういん	Imprison	봉인
+287	リフレッシュ	Refresh	리프레쉬
+288	おんねん	Grudge	원념
+289	よこどり	Snatch	가로챔
+290	ひみつのちから	Secret Power	비밀의힘
+291	ダイビング	Dive	다이빙
+292	つっぱり	Arm Thrust	손바닥치기
+293	ほごしょく	Camouflage	보호색
+294	ほたるび	Tail Glow	반딧불
+295	ラスタ?パ?ジ	Luster Purge	라스트버지
+296	ミストボ?ル	Mist Ball	미스트볼
+297	フェザ?ダンス	Feather Dance	깃털댄스
+298	フラフラダンス	Teeter Dance	흔들흔들댄스
+299	ブレイズキック	Blaze Kick	브레이즈킥
+300	どろあそび	Mud Sport	흙놀이
+301	アイスボ?ル	Ice Ball	아이스볼
+302	ニ?ドルア?ム	Needle Arm	바늘팔
+303	なまける	Slack Off	태만함
+304	ハイパ?ボイス	Hyper Voice	하이퍼보이스
+305	どくどくのキバ	Poison Fang	독엄니
+306	ブレイククロ?	Crush Claw	브레이크크루
+307	ブラストバ?ン	Blast Burn	블러스트번
+308	ハイドロカノン	Hydro Cannon	하이드로캐논
+309	コメットパンチ	Meteor Mash	코멧펀치
+310	おどろかす	Astonish	놀래키기
+311	ウェザ?ボ?ル	Weather Ball	웨더볼
+312	アロマセラピ?	Aromatherapy	아로마테라피
+313	うそなき	Fake Tears	거짓울음
+314	エアカッタ?	Air Cutter	에어컷터
+315	オ?バ?ヒ?ト	Overheat	오버히트
+316	かぎわける	Odor Sleuth	냄새구별
+317	がんせきふうじ	Rock Tomb	암석봉인
+318	ぎんいろのかぜ	Silver Wind	은빛바람
+319	きんぞくおん	Metal Sound	금속음
+320	くさぶえ	Grass Whistle	풀피리
+321	くすぐる	Tickle	간지르기
+322	コスモパワ?	Cosmic Power	코스믹파워
+323	しおふき	Water Spout	해수스파우팅
+324	シグナルビ?ム	Signal Beam	시그널빔
+325	シャド?パンチ	Shadow Punch	섀도펀치
+326	じんつうりき	Extrasensory	신통력
+327	スカイアッパ?	Sky Uppercut	스카이업퍼
+328	すなじごく	Sand Tomb	모래지옥
+329	ぜったいれいど	Sheer Cold	절대영도
+330	だくりゅう	Muddy Water	탁류
+331	タネマシンガン	Bullet Seed	기관총
+332	つばめがえし	Aerial Ace	제비반환
+333	つららばり	Icicle Spear	고드름침
+334	てっぺき	Iron Defense	철벽
+335	とおせんぼう	Block	블록
+336	とおぼえ	Howl	멀리짖음
+337	ドラゴンクロ?	Dragon Claw	드래곤크루
+338	ハ?ドプラント	Frenzy Plant	하드플랜트
+339	ビルドアップ	Bulk Up	벌크업
+340	とびはねる	Bounce	뛰어오르다
+341	マッドショット	Mud Shot	머드숏
+342	ポイズンテ?ル	Poison Tail	포이즌테일
+343	ほしがる	Covet	탐내다
+344	ボルテッカ?	Volt Tackle	볼트태클
+345	マジカルリ?フ	Magical Leaf	메지컬리프
+346	みずあそび	Water Sport	물놀이
+347	めいそう	Calm Mind	명상
+348	リ?フブレ?ド	Leaf Blade	리프블레이드
+349	りゅうのまい	Dragon Dance	용의춤
+350	ロックブラスト	Rock Blast	락블레스트
+351	でんげきは	Shock Wave	전격파
+352	みずのはどう	Water Pulse	물의파동
+353	はめつのねがい	Doom Desire	파멸의소원
+354	サイコブ?スト	Psycho Boost	사이코부스트
+355	はねやすめ	Roost	날개쉬기
+356	じゅうりょく	Gravity	중력
+357	ミラクルアイ	Miracle Eye	미라클아이
+358	めざましビンタ	Wake-Up Slap	잠깨움뺨치기
+359	ア?ムハンマ?	Hammer Arm	암해머
+360	ジャイロボ?ル	Gyro Ball	자이로볼
+361	いやしのねがい	Healing Wish	치유소원
+362	しおみず	Brine	소금물
+363	しぜんのめぐみ	Natural Gift	자연의은혜
+364	フェイント	Feint	페인트
+365	ついばむ	Pluck	쪼아대기
+366	おいかぜ	Tailwind	순풍
+367	つぼをつく	Acupressure	경혈찌르기
+368	メタルバ?スト	Metal Burst	메탈버스트
+369	とんぼがえり	U-turn	유턴
+370	インファイト	Close Combat	인파이트
+371	しっぺがえし	Payback	보복
+372	ダメおし	Assurance	승부굳히기
+373	さしおさえ	Embargo	금제
+374	なげつける	Fling	내던지기
+375	サイコシフト	Psycho Shift	사이코시프트
+376	きりふだ	Trump Card	마지막수단
+377	かいふくふうじ	Heal Block	회복봉인
+378	しぼりとる	Wring Out	쥐어짜기
+379	パワ?トリック	Power Trick	파워트릭
+380	いえき	Gastro Acid	위액
+381	おまじない	Lucky Chant	주술
+382	さきどり	Me First	선취
+383	まねっこ	Copycat	흉내쟁이
+384	パワ?スワップ	Power Swap	파워스웹
+385	ガ?ドスワップ	Guard Swap	가드스웹
+386	おしおき	Punishment	혼내기
+387	とっておき	Last Resort	뒀다쓰기
+388	なやみのタネ	Worry Seed	고민씨
+389	ふいうち	Sucker Punch	기습
+390	どくびし	Toxic Spikes	독압정
+391	ハ?トスワップ	Heart Swap	하트스웹
+392	アクアリング	Aqua Ring	아쿠아링
+393	でんじふゆう	Magnet Rise	전자부유
+394	フレアドライブ	Flare Blitz	플레어드라이브
+395	はっけい	Force Palm	발경
+396	はどうだん	Aura Sphere	파동탄
+397	ロックカット	Rock Polish	록커트
+398	どくづき	Poison Jab	독찌르기
+399	あくのはどう	Dark Pulse	악의파동
+400	つじぎり	Night Slash	깜짝베기
+401	アクアテ?ル	Aqua Tail	아쿠아테일
+402	タネばくだん	Seed Bomb	씨폭탄
+403	エアスラッシュ	Air Slash	에어슬래시
+404	シザ?クロス	X-Scissor	시저크로스
+405	むしのさざめき	Bug Buzz	벌레의야단법석
+406	りゅうのはどう	Dragon Pulse	용의파동
+407	ドラゴンダイブ	Dragon Rush	드래곤다이브
+408	パワ?ジェム	Power Gem	파워젬
+409	ドレインパンチ	Drain Punch	드레인펀치
+410	しんくうは	Vacuum Wave	진공파
+411	きあいだま	Focus Blast	기합구슬
+412	エナジ?ボ?ル	Energy Ball	에너지볼
+413	ブレイブバ?ド	Brave Bird	브레이브버드
+414	だいちのちから	Earth Power	대지의힘
+415	すりかえ	Switcheroo	바꿔치기
+416	ギガインパクト	Giga Impact	기가임팩트
+417	わるだくみ	Nasty Plot	나쁜음모
+418	バレットパンチ	Bullet Punch	불릿펀치
+419	ゆきなだれ	Avalanche	눈사태
+420	こおりのつぶて	Ice Shard	얼음뭉치
+421	シャド?クロ?	Shadow Claw	섀도크루
+422	かみなりのキバ	Thunder Fang	번개엄니
+423	こおりのキバ	Ice Fang	얼음엄니
+424	ほのおのキバ	Fire Fang	불꽃엄니
+425	かげうち	Shadow Sneak	야습
+426	どろばくだん	Mud Bomb	진흙폭탄
+427	サイコカッタ?	Psycho Cut	사이코커터
+428	しねんのずつき	Zen Headbutt	사념의박치기
+429	ミラ?ショット	Mirror Shot	미러숏
+430	ラスタ?カノン	Flash Cannon	러스터캐논
+431	ロッククライム	Rock Climb	락클라임
+432	きりばらい	Defog	안개제거
+433	トリックル?ム	Trick Room	트릭룸
+434	りゅうせいぐん	Draco Meteor	용성군
+435	ほうでん	Discharge	방전
+436	ふんえん	Lava Plume	분연
+437	リ?フスト?ム	Leaf Storm	리프스톰
+438	パワ?ウィップ	Power Whip	파워휩
+439	がんせきほう	Rock Wrecker	암석포
+440	クロスポイズン	Cross Poison	크로스포이즌
+441	ダストシュ?ト	Gunk Shot	더스트슈트
+442	アイアンヘッド	Iron Head	아이언헤드
+443	マグネットボム	Magnet Bomb	마그넷봄
+444	スト?ンエッジ	Stone Edge	스톤에지
+445	ゆうわく	Captivate	유혹
+446	ステルスロック	Stealth Rock	스텔스록
+447	くさむすび	Grass Knot	풀묶기
+448	おしゃべり	Chatter	수다
+449	さばきのつぶて	Judgment	심판의뭉치
+450	むしくい	Bug Bite	벌레먹음
+451	チャ?ジビ?ム	Charge Beam	차지빔
+452	ウッドハンマ?	Wood Hammer	우드해머
+453	アクアジェット	Aqua Jet	아쿠아제트
+454	こうげきしれい	Attack Order	공격지령
+455	ぼうぎょしれい	Defend Order	방어지령
+456	かいふくしれい	Heal Order	회복지령
+457	もろはのずつき	Head Smash	양날박치기
+458	ダブルアタック	Double Hit	더블어택
+459	ときのほうこう	Roar of Time	시간의포효
+460	あくうせつだん	Spacial Rend	공간절단
+461	みかづきのまい	Lunar Dance	초승달춤
+462	にぎりつぶす	Crush Grip	묵사발
+463	マグマスト?ム	Magma Storm	마그마스톰
+464	ダ?クホ?ル	Dark Void	다크홀
+465	シ?ドフレア	Seed Flare	시드플레어
+466	あやしいかぜ	Ominous Wind	괴상한바람
+467	シャド?ダイブ	Shadow Force	섀도다이브
+468	つめとぎ	Hone Claws	손톱갈기
+469	ワイドガ?ド	Wide Guard	와이드가드
+470	ガ?ドシェア	Guard Split	가드셰어
+471	パワ?シェア	Power Split	파워셰어
+472	ワンダ?ル?ム	Wonder Room	원더룸
+473	サイコショック	Psyshock	사이코쇼크
+474	ベノムショック	Venoshock	베놈쇼크
+475	ボディパ?ジ	Autotomize	바디퍼지
+476	いかりのこな	Rage Powder	분노가루
+477	テレキネシス	Telekinesis	텔레키네시스
+478	マジックル?ム	Magic Room	매직룸
+479	うちおとす	Smack Down	떨어뜨리기
+480	やまあらし	Storm Throw	업어후리기
+481	はじけるほのお	Flame Burst	불꽃튀기기
+482	ヘドロウェ?ブ	Sludge Wave	오물웨이브
+483	ちょうのまい	Quiver Dance	나비춤
+484	ヘビ?ボンバ?	Heavy Slam	헤비봄버
+485	シンクロノイズ	Synchronoise	싱크로노이즈
+486	エレキボ?ル	Electro Ball	일렉트릭볼
+487	みずびたし	Soak	물붓기
+488	ニトロチャ?ジ	Flame Charge	니트로차지
+489	とぐろをまく	Coil	똬리틀기
+490	ロ?キック	Low Sweep	로킥
+491	アシッドボム	Acid Spray	애시드봄
+492	イカサマ	Foul Play	속임수
+493	シンプルビ?ム	Simple Beam	심플빔
+494	なかまづくり	Entrainment	동료만들기
+495	おさきにどうぞ	After You	당신먼저
+496	りんしょう	Round	돌림노래
+497	エコ?ボイス	Echoed Voice	에코보이스
+498	なしくずし	Chip Away	야금야금
+499	クリアスモッグ	Clear Smog	클리어스모그
+500	アシストパワ?	Stored Power	어시스트파워
+501	ファストガ?ド	Quick Guard	퍼스트가드
+502	サイドチェンジ	Ally Switch	사이드체인지
+503	ねっとう	Scald	열탕
+504	からをやぶる	Shell Smash	껍질깨기
+505	いやしのはどう	Heal Pulse	치유파동
+506	たたりめ	Hex	병상첨병
+507	フリ?フォ?ル	Sky Drop	프리폴
+508	ギアチェンジ	Shift Gear	기어체인지
+509	ともえなげ	Circle Throw	배대뒤치기
+510	やきつくす	Incinerate	불태우기
+511	さきおくり	Quash	순서미루기
+512	アクロバット	Acrobatics	애크러뱃
+513	ミラ?タイプ	Reflect Type	미러타입
+514	かたきうち	Retaliate	원수갚기
+515	いのちがけ	Final Gambit	목숨걸기
+516	ギフトパス	Bestow	기프트패스
+517	れんごく	Inferno	연옥
+518	みずのちかい	Water Pledge	물의맹세
+519	ほのおのちかい	Fire Pledge	불꽃의맹세
+520	くさのちかい	Grass Pledge	풀의맹세
+521	ボルトチェンジ	Volt Switch	볼트체인지
+522	むしのていこう	Struggle Bug	벌레의저항
+523	じならし	Bulldoze	땅고르기
+524	こおりのいぶき	Frost Breath	얼음숨결
+525	ドラゴンテ?ル	Dragon Tail	드래곤테일
+526	ふるいたてる	Work Up	분발
+527	エレキネット	Electroweb	일렉트릭네트
+528	ワイルドボルト	Wild Charge	와일드볼트
+529	ドリルライナ?	Drill Run	드릴라이너
+530	ダブルチョップ	Dual Chop	더블촙
+531	ハ?トスタンプ	Heart Stamp	하트스탬프
+532	ウッドホ?ン	Horn Leech	우드호른
+533	せいなるつるぎ	Sacred Sword	성스러운칼
+534	シェルブレ?ド	Razor Shell	셸블레이드
+535	ヒ?トスタンプ	Heat Crash	히트스탬프
+536	グラスミキサ?	Leaf Tornado	그래스믹서
+537	ハ?ドロ?ラ?	Steamroller	하드롤러
+538	コットンガ?ド	Cotton Guard	코튼가드
+539	ナイトバ?スト	Night Daze	나이트버스트
+540	サイコブレイク	Psystrike	사이코브레이크
+541	スイ?プビンタ	Tail Slap	스위프뺨치기
+542	ぼうふう	Hurricane	폭풍
+543	アフロブレイク	Head Charge	아프로브레이크
+544	ギアソ?サ?	Gear Grind	기어소서
+545	かえんだん	Searing Shot	화염탄
+546	テクノバスタ?	Techno Blast	테크노버스터
+547	いにしえのうた	Relic Song	옛노래
+548	しんぴのつるぎ	Secret Sword	신비의칼
+549	こごえるせかい	Glaciate	얼다세계
+550	らいげき	Bolt Strike	뇌격
+551	あおいほのお	Blue Flare	푸른불꽃
+552	ほのおのまい	Fiery Dance	불꽃춤
+553	フリ?ズボルト	Freeze Shock	프리즈볼트
+554	コ?ルドフレア	Ice Burn	콜드플레어
+555	バ?クアウト	Snarl	바크아웃
+556	つららおとし	Icicle Crash	고드름떨구기
+557	Ｖジェネレ?ト	V-create	V제너레이트
+558	クロスフレイム	Fusion Flare	크로스플레임
+559	クロスサンダ?	Fusion Bolt	크로스썬더
+560	フライングプレス	Flying Press	플라잉프레스
+561	たたみがえし	Mat Block	마룻바닥세워막기
+562	ゲップ	Belch	트림
+563	たがやす	Rototiller	일구기
+564	ねばねばネット	Sticky Web	끈적끈적네트
+565	とどめばり	Fell Stinger	마지막일침
+566	ゴ?ストダイブ	Phantom Force	고스트다이브
+567	ハロウィン	Trick-or-Treat	핼러윈
+568	おたけび	Noble Roar	부르짖기
+569	プラズマシャワ?	Ion Deluge	플라스마샤워
+570	パラボラチャ?ジ	Parabolic Charge	파라볼라차지
+571	もりののろい	Forest’s Curse	숲의저주
+572	はなふぶき	Petal Blizzard	꽃보라
+573	フリ?ズドライ	Freeze-Dry	프리즈드라이
+574	チャ?ムボイス	Disarming Voice	차밍보이스
+575	すてゼリフ	Parting Shot	막말내뱉기
+576	ひっくりかえす	Topsy-Turvy	뒤집어엎기
+577	ドレインキッス	Draining Kiss	드레인키스
+578	トリックガ?ド	Crafty Shield	트릭가드
+579	フラワ?ガ?ド	Flower Shield	플라워가드
+580	グラスフィ?ルド	Grassy Terrain	그래스필드
+581	ミストフィ?ルド	Misty Terrain	미스트필드
+582	そうでん	Electrify	송전
+583	じゃれつく	Play Rough	치근거리기
+584	ようせいのかぜ	Fairy Wind	요정의바람
+585	ム?ンフォ?ス	Moonblast	문포스
+586	ばくおんぱ	Boomburst	폭음파
+587	フェアリ?ロック	Fairy Lock	페어리록
+588	キングシ?ルド	King’s Shield	킹실드
+589	なかよくする	Play Nice	친해지기
+590	ないしょばなし	Confide	비밀이야기
+591	ダイヤスト?ム	Diamond Storm	다이아스톰
+592	スチ?ムバ?スト	Steam Eruption	스팀버스트
+593	いじげんホ?ル	Hyperspace Hole	다른차원홀
+594	みずしゅりけん	Water Shuriken	물수리검
+595	マジカルフレイム	Mystical Fire	매지컬플레임
+596	ニ?ドルガ?ド	Spiky Shield	니들가드
+597	アロマミスト	Aromatic Mist	아로마미스트
+598	かいでんぱ	Eerie Impulse	괴전파
+599	ベノムトラップ	Venom Drench	베놈트랩
+600	ふんじん	Powder	분진
+601	ジオコントロ?ル	Geomancy	지오컨트롤
+602	じばそうさ	Magnetic Flux	자기장조작
+603	ハッピ?タイム	Happy Hour	해피타임
+604	エレキフィ?ルド	Electric Terrain	일렉트릭필드
+605	マジカルシャイン	Dazzling Gleam	매지컬샤인
+606	おいわい	Celebrate	축하
+607	てをつなぐ	Hold Hands	손에손잡기
+608	つぶらなひとみ	Baby-Doll Eyes	초롱초롱눈동자
+609	ほっぺすりすり	Nuzzle	볼부비부비
+610	てかげん	Hold Back	적당히손봐주기
+611	まとわりつく	Infestation	엉겨붙기
+612	グロウパンチ	Power-Up Punch	그로우펀치
+613	デスウイング	Oblivion Wing	데스윙
+614	サウザンアロ?	Thousand Arrows	사우전드애로
+615	サウザンウェ?ブ	Thousand Waves	사우전드웨이브
+616	グランドフォ?ス	Land’s Wrath	그라운드포스
+617	はめつのひかり	Light of Ruin	파멸의빛
+618	こんげんのはどう	Origin Pulse	근원의파동
+619	だんがいのつるぎ	Precipice Blades	단애의칼
+620	ガリョウテンセイ	Dragon Ascent	화룡점정
+621	いじげんラッシュ	Hyperspace Fury	다른차원러시
+622	１０まんばりき	High Horsepower	10만마력
+623	ＤＤラリアット	Darkest Lariat	DD래리어트
+624	かげぬい	Spirit Shackle	그림자꿰메기
+625	つけあがる	Power Trip	기어오르기
+626	かふんだんご	Pollen Puff	꽃가루경단
+627	このは	Leafage	나뭇잎
+628	なみだめ	Tearful Look	눈물그렁그렁
+629	とびかかる	Lunge	덤벼들기
+630	どくのいと	Toxic Thread	독실
+631	ドラゴンハンマ?	Dragon Hammer	드래곤해머
+632	であいがしら	First Impression	만나자마자
+633	マルチアタック	Multi-Attack	멀티어택
+634	メテオドライブ	Sunsteel Strike	메테오드라이브
+635	すなあつめ	Shore Up	모래모으기
+636	うたかたのアリア	Sparkling Aria	물거품아리아
+637	くちばしキャノン	Beak Blast	부리캐논
+638	じだんだ	Stomping Tantrum	분함의발구르기
+639	ほのおのムチ	Fire Lash	불꽃채찍
+640	もえつきる	Burn Up	불사르기
+641	サイコファング	Psychic Fangs	사이코팽
+642	サイコフィ?ルド	Psychic Terrain	사이코필드
+643	シャド?レイ	Moongeist Beam	섀도레이
+644	シャド?ボ?ン	Shadow Bone	섀도본
+645	シャド?スチ?ル	Spectral Thief	섀도스틸
+646	ぶんまわす	Brutal Swing	세차게휘두르기
+647	ソ?ラ?ブレ?ド	Solar Blade	솔라블레이드
+648	スマ?トホ?ン	Smart Strike	스마트호른
+649	スケイルノイズ	Clanging Scales	스케일노이즈
+650	スポットライト	Spotlight	스포트라이트
+651	スピ?ドスワップ	Speed Swap	스피드스웹
+652	アイスハンマ?	Ice Hammer	아이스해머
+653	アクアブレイク	Liquidation	아쿠아브레이크
+654	アンカ?ショット	Anchor Shot	앵커숏
+655	アシストギア	Gear Up	어시스트기어
+656	アクセルロック	Accelerock	엑셀록
+657	とぎすます	Laser Focus	예민해지기
+658	オ?ロラベ?ル	Aurora Veil	오로라베일
+659	しぜんのいかり	Nature's Madness	자연의분노
+660	めざめるダンス	Revelation Dance	잠재댄스
+661	じょうか	Purify	정화
+662	じごくづき	Throat Chop	지옥찌르기
+663	さいはい	Instruct	지휘
+664	びりびりちくちく	Zing Zap	찌리리따끔따끔
+665	コアパニッシャ?	Core Enforcer	코어퍼니셔
+666	ト?チカ	Baneful Bunker	토치카
+667	トラップシェル	Shell Trap	트랩셸
+668	トロピカルキック	Trop Kick	트로피컬킥
+669	プリズムレ?ザ?	Prismatic Laser	프리즘레이저
+670	フラワ?ヒ?ル	Floral Healing	플라워힐
+671	フル?ルカノン	Fleur Cannon	플뢰르캐논
+672	ちからをすいとる	Strength Sap	힘흡수
+673	ダブルパンツァ?	Double Iron Bash	더블펀처
+674	ダイマックスほう	Dynamax Cannon	다이맥스포
+675	ねらいうち	Snipe Shot	노려맞히기
+676	くらいつく	Jaw Lock	물고버티기
+677	ほおばる	Stuff Cheeks	볼가득넣기
+678	はいすいのじん	No Retreat	배수의진
+679	タ?ルショット	Tar Shot	타르숏
+680	まほうのこな	Magic Powder	마법가루
+681	ドラゴンアロ?	Dragon Darts	드래곤애로
+682	おちゃかい	Teatime	다과회
+683	たこがため	Octolock	문어굳히기
+684	でんげきくちばし	Bolt Beak	전격부리
+685	エラがみ	Fishious Rend	아가미물기
+686	コ?トチェンジ	Court Change	코트체인지
+687	ソウルビ?ト	Clangorous Soul	소울비트
+688	ボディプレス	Body Press	바디프레스
+689	デコレ?ション	Decorate	데코레이션
+690	ドラムアタック	Drum Beating	드럼어택
+691	トラバサミ	Snap Trap	집게덫
+692	かえんボ?ル	Pyro Ball	화염볼
+693	きょじゅうざん	Behemoth Blade	거수참
+694	きょじゅうだん	Behemoth Bash	거수탄
+695	オ?ラぐるま	Aura Wheel	오라휠
+696	ワイドブレイカ?	Breaking Swipe	와이드브레이커
+697	えだづき	Branch Poke	가지찌르기
+698	オ?バ?ドライブ	Overdrive	오버드라이브
+699	りんごさん	Apple Acid	사과산
+700	Ｇのちから	Grav Apple	G의힘
+701	ソウルクラッシュ	Spirit Break	소울크래시
+702	ワンダ?スチ?ム	Strange Steam	원더스팀
+703	いのちのしずく	Life Dew	생명의물방울
+704	ブロッキング	Obstruct	블로킹
+705	どげざつき	False Surrender	사죄의찌르기
+706	スタ?アサルト	Meteor Assault	스타어설트
+707	てっていこうせん	Steel Beam	철제광선
+708	ねっさのあらし	Sandsear Storm	열사의폭풍
+709	ふんどのこぶし	Rage Fist	분노의주먹
+710	くさわけ	Trailblaze	개척하기
+711	ねっさのだいち	Scorching Sands	열사의대지
+712	トリプルアクセル	Triple Axel	트리플악셀
+713	かみなりあらし	Wildbolt Storm	번개폭풍
+714	メテオビ?ム	Meteor Beam	메테오빔
+715	こがらしあらし	Bleakwind Storm	찬바람폭풍
+716	シザ?クロス	X-Scissor	시저크로스
+717	ポルタ?ガイスト	Poltergeist	폴터가이스트
+718	Vジェネレ?ト	V-Create	V제너레이트
